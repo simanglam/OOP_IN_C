@@ -1,0 +1,10 @@
+venv
+
+slide_draft/out
+slide_draft/media
+slide_draft/slides/
+slide_draft/scene/__pycache__
+
+node_modules
+package.json
+package-lock.json
