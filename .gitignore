@@ -1,8 +1,8 @@
 venv
 
 slide_draft/out
-slide_draft/media
-slide_draft/slides/
+slides
+media
 slide_draft/scene/__pycache__
 
 node_modules
